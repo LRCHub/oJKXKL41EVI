@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "GATE OF STEINER -Main theme-",
+  "base_artist": "阿保剛",
+  "createdAt": "2025-12-01T08:45:42.673095Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GATE OF STEINER",
+      "artist": "佐々木恵梨",
+      "has_synced": false,
+      "path": "select/pl_01_GATE_OF_STEINER_佐々木恵梨.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "GATE OF STEINER (acoustic ver.)",
+      "artist": "佐々木恵梨",
+      "has_synced": false,
+      "path": "select/pl_02_GATE_OF_STEINER_(acoustic_ver.)_佐々木恵梨.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Gate of Steiner",
+      "artist": "佐々木恵梨",
+      "has_synced": false,
+      "path": "select/pl_03_Gate_of_Steiner_佐々木恵梨.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "GATE OF STEINER",
+      "artist": "佐々木恵梨",
+      "has_synced": false,
+      "path": "select/pl_04_GATE_OF_STEINER_佐々木恵梨.txt"
+    }
+  ]
+}
